@@ -1,0 +1,4 @@
+name: GoPlantYourself
+version: '1.0'
+main: hardbuckaroo.goplantyourself.GoPlantYourself
+api-version: '1.20'
